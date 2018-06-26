@@ -38,6 +38,7 @@ I am going to take my data
 2)	Data analysis 
 3)	Data Massage 
 
+Process Flow Flow Chart - coming soon! 
 
 Git Hub was installed! And it has the following information
 about the project has been placed on GitHub: 
