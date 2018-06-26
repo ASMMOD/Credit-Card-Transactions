@@ -29,8 +29,10 @@ most usage.
 Getting Started -Data Science Practicum I (Master Certificate in
 Data Science) 
 
-EDA Criteria 
-I looked at a few data set and in trying to determine the exploratory data analysis and seeing which data set will allow me the opportunity to provide enough information for my hypothesis. After choosing my data set I looked at what possible tool sets and packages I can use in determining my criteria.  I was able to determine that with this current data set I should be able to do some data manipulation, data visualization to do some analysis that can possibly answer my question. Therefore, I found two data sets that I will be utilizing for this project. The dataset are compiled with information of credit card usage, in terms of what the monies are spent on and which gender is utilized the usage of CC frequently. 
+EDA Criteria-
+I looked at a few data set and in trying to determine the exploratory data analysis and seeing which data set will allow me the opportunity to provide enough information for my hypothesis. After choosing my data set I looked at what possible tool sets and packages 
+I can use in determining my criteria.  I was able to determine that with this current data set I should be able to do some data manipulation, data visualization to do some analysis that can possibly answer my question. Therefore, I found two data sets that I will be utilizing for this project. The dataset are compiled with information of credit card usage, in terms of what the monies are spent on and which gender is utilized the usage of CC frequently. 
+
 I am going to take my data 
 1)	Data Exploration
 2)	Data analysis 
