@@ -39,7 +39,9 @@ I can use in determining my criteria.  I was able to determine that with this cu
 
 Process Flow: 
 The purpose of the flow chart is to show step-by-step flow of the process. 
-https://github.com/ASMMOD/Credit-Card-Transactions/files/2139523/process.flow.docx
+
+![process flow](https://user-images.githubusercontent.com/40149131/41949912-2262a622-79b3-11e8-93e4-cb2c4088daad.jpg)
+
 
 Git Hub was installed! And it has the following information
 about the project has been placed on GitHub: 
