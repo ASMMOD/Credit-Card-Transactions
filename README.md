@@ -3,10 +3,6 @@
 # ReadMe: <h1>
 
 
-# Asmita Modi<h1> 
-
-
-
  
 For: Regis University - MSDS -692 Data Science Practicum I 
 
@@ -174,7 +170,7 @@ Utilized the above application as noted.
 
 ![thank you](https://user-images.githubusercontent.com/40149131/41949455-fead84ce-79b0-11e8-8d40-04d19f2befc5.jpg)
 
-Asmita Modi 
+Asmita M
 
 
 
