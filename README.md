@@ -29,7 +29,7 @@ most usage.
 Getting Started -Data Science Practicum I (Master Certificate in
 Data Science) 
 
-EDA Criteria-
+##EDA Criteria-
 I looked at a few data set and in trying to determine the exploratory data analysis and seeing which data set will allow me the opportunity to provide enough information for my hypothesis. After choosing my data set I looked at what possible tool sets and packages 
 I can use in determining my criteria.  I was able to determine that with this current data set I should be able to do some data manipulation, data visualization to do some analysis that can possibly answer my question. Therefore, I found two data sets that I will be utilizing for this project. The dataset are compiled with information of credit card usage, in terms of what the monies are spent on and which gender is utilized the usage of CC frequently. 
 
@@ -37,12 +37,9 @@ I can use in determining my criteria.  I was able to determine that with this cu
 2)	Data analysis 
 3)	Data Massage 
 
-Process Flow Flow Chart - 
+##Process Flow: 
 The purpose of the flow chart is to show step-by-step flow of the process. 
-
-Process Flow: 
-The purpose of the flow chart is to show step-by-step flow of the process. 
-
+https://github.com/ASMMOD/Credit-Card-Transactions/files/2139523/process.flow.docx
 
 Git Hub was installed! And it has the following information
 about the project has been placed on GitHub: 
@@ -74,7 +71,7 @@ Prerequisites - Installation: Download the following software:
 
 
 
-R-Studio for Clustering 
+##R-Studio for Clustering 
 //R-Studio codes 
 setwd("C:/Users/guest 1/Desktop")
 > data <- read.csv("OnlineRetail_v13_Australia.csv", header = TRUE)
@@ -147,7 +144,7 @@ About
 
 
 
-Machine Learning for K-means 
+##Machine Learning for K-means 
 
 
 
