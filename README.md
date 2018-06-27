@@ -170,9 +170,9 @@ Coding style - generated using RStudio, Tableau and Weka
 
 Utilized the above application as noted.  
 
+![thank you](https://user-images.githubusercontent.com/40149131/41949455-fead84ce-79b0-11e8-8d40-04d19f2befc5.jpg)
 
-
-Thank you,  Asmita Modi 
+Asmita Modi 
 
 
 
