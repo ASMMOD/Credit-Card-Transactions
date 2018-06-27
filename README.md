@@ -168,7 +168,7 @@ Coding style - generated using RStudio, Tableau and Weka
 
 
 
-Utilized the above application noted.  
+Utilized the above application as noted.  
 
 
 
