@@ -1,18 +1,18 @@
 
 
-ReadMe: 
+# ReadMe: <h1>
 
 
 # Asmita Modi<h1> 
 
 
 
-##Heading
-For: Regis University - MSDS -692 Data Science Practicum I  
+ 
+##For: Regis University - MSDS -692 Data Science Practicum I <h1> 
 
 
-##Heading
-Project Name: Credit Transaction (India/Australia) 
+##
+Project Name: Credit Transaction (India/Australia) <h1> 
 
 
 
