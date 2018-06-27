@@ -8,11 +8,11 @@
 
 
  
-##For: Regis University - MSDS -692 Data Science Practicum I <h1> 
+For: Regis University - MSDS -692 Data Science Practicum I 
 
 
-##
-Project Name: Credit Transaction (India/Australia) <h1> 
+
+Project Name: Credit Transaction (India/Australia)
 
 
 
@@ -37,7 +37,7 @@ I can use in determining my criteria.  I was able to determine that with this cu
 2)	Data analysis 
 3)	Data Massage 
 
-##Process Flow: 
+Process Flow: 
 The purpose of the flow chart is to show step-by-step flow of the process. 
 https://github.com/ASMMOD/Credit-Card-Transactions/files/2139523/process.flow.docx
 
@@ -71,7 +71,7 @@ Prerequisites - Installation: Download the following software:
 
 
 
-##R-Studio for Clustering 
+R-Studio for Clustering 
 //R-Studio codes 
 setwd("C:/Users/guest 1/Desktop")
 > data <- read.csv("OnlineRetail_v13_Australia.csv", header = TRUE)
